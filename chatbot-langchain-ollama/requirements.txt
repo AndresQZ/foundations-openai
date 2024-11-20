@@ -1,0 +1,12 @@
+streamlit
+langchain
+langchain-community
+
+beautifulsoup4
+faiss-cpu #local vectorstore
+
+
+langchain-openai
+langchain-text-splitters
+langchain
+pypdf

@@ -1,0 +1,5 @@
+Create a python environment 
+
+```bash
+python3 -m venv isoletedEnv 
+```

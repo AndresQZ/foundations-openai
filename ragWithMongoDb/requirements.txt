@@ -1,0 +1,7 @@
+-i https://pypi.org/simple
+fastapi
+pymongo==4.6.2
+openai
+pandas
+datasets
+python-dotenv
